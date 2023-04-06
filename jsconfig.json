@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "paths": {
+        "@src/*":["./src/*"],
+        "@shared/*": ["./src/shared/*"],
+        "@pages/*": ["./src/pages/*"],
+        "@store/*":["./src/store/*"],
+        "@types/*": ["./src/store/types/*"],
+        "@creators/*": ["./src/store/creators/*"],
+        "@reducers/*": ["./src/store/reducers/*"],
+        "@utils/*": ["./src/utils/*"],
+        "@requests/*": ["./src/requests/*"]
+      }
+    }
+  }
